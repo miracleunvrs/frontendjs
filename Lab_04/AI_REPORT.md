@@ -55,7 +55,7 @@
 
 
 # Lab 4.2: Refactoring Article Manager
-
+св
 ## 1. Информация о использовании AI
 - Инструмент: ChatGPT / GPT-5-mini
 - Дата: 2026-02-07
